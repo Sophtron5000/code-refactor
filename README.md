@@ -8,11 +8,17 @@ Code Refactoring for ADA accessibility
 
  This project is a app featuring summaries of services offered by Hariseon Marketing. Included you will find HTML and CSS domcuments; and image files.
  HTML had been updated with idenftfying tags to ease future updates.
- ADA accessibility complient optimizes SEO results and important for reaching all audiences. 
+ ADA accessibility optimizes SEO results and is important for reaching all audiences. 
  During this project I put to use my basic HTML and CSS knowledge for essential debugging and implimenting HTML to increase accessability. 
 
 [Click here for Hariseon live sample](https://sophtron5000.github.io/01-Homework-HTML-CSS-Git-Code-Refactor/)
 
+## Features
+
+* ADA accessable attributes
+* Optimzed source code with sematic HTML
+* Added comments for ease of reader
+* When you view the source code, you will find semantic CSS selectors
 
 ## Table of Contents
 
@@ -27,11 +33,11 @@ Code Refactoring for ADA accessibility
 
 System requirements: latest version of Visual Studio Code, GitHub account, GitBash
 
-1.open GitHub link provided in defult browser *add git hub link*
-2.select the green "code" buttom; and copy the SSH key
-3.in GitBash change directory to desired save location
-4.run command: "git clone (*paste SSH key here*)" (without quotes)
-5.once saved to yout terminal, launch app on your perfered repo/deployment platform
+1. open GitHub link provided in defult browser *add git hub link*
+2. select the green "code" buttom; and copy the SSH key
+3. in GitBash change directory to desired save location
+4. run command: "git clone (*paste SSH key here*)" (without quotes)
+5. once saved to yout terminal, launch app on your perfered repo/deployment platform
 
 
 ## Usage 
@@ -40,12 +46,7 @@ System requirements: latest version of Visual Studio Code, GitHub account, GitBa
 * Make nessesary edits in Visual Studio Code
 * Push to desired repository/deplayment platform for potential clients to enjoy
 
-## Features
 
-* ADA accessable attributes
-* Optimzed source code with sematic HTML
-* Added comments for ease of reader
-* When you view the source code, you will find semantic CSS selectors
 
 ## Credits
 
@@ -77,7 +78,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ## Contributing
 
