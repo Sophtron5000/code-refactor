@@ -32,7 +32,7 @@
 
 System requirements: latest version of Visual Studio Code, GitHub account, GitBash
 
-1. open GitHub link provided in default browser [Click here for Hariseon live sample](https://sophtron5000.github.io/code-refactor/)
+1. open GitHub link provided in default browser [Click here for gitHub repository](https://github.com/Sophtron5000/code-refactor/)
 2. select the green "code" button; and copy the SSH key
 3. in GitBash change directory to desired save location
 4. run command: "git clone (*paste SSH key here*)" (without quotes)
