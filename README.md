@@ -5,17 +5,17 @@
 ## Code Refactoring for ADA accessability 
 
 
- This project is a app featuring summaries of services offered by Hariseon Marketing. Included you will find HTML and CSS domcuments; and image files.
- HTML had been updated with idenftfying tags to ease future updates.
- ADA accessibility atributes were added to optimizes SEO results and which is important for reaching all audiences. 
- During this project I put to use my basic HTML and CSS knowledge for essential debugging and implimenting HTML atributes to increase accessability. 
+ This project is a app featuring summaries of services offered by Hariseon Marketing. Included you will find HTML and CSS documents; and image files.
+ HTML had been updated with identifying tags to ease future updates.
+ ADA accessibility attributes were added to optimizes SEO results and which is important for reaching all audiences. 
+ During this project I put to use my basic HTML and CSS knowledge for essential debugging and implementing HTML attributes to increase accessability. 
 
 [Click here for Hariseon live sample](https://sophtron5000.github.io/code-refactor/)
 
 ## Features
 
-* ADA accessable attributes
-* Optimzed source code with sematic HTML
+* ADA accessible attributes
+* Optimized source code with sematic HTML
 * Added comments for ease of reader
 * Semantic CSS selectors
 
@@ -32,18 +32,18 @@
 
 System requirements: latest version of Visual Studio Code, GitHub account, GitBash
 
-1. open GitHub link provided in defult browser [Click here for Hariseon live sample](https://sophtron5000.github.io/code-refactor/)
-2. select the green "code" buttom; and copy the SSH key
+1. open GitHub link provided in default browser [Click here for Hariseon live sample](https://sophtron5000.github.io/code-refactor/)
+2. select the green "code" button; and copy the SSH key
 3. in GitBash change directory to desired save location
 4. run command: "git clone (*paste SSH key here*)" (without quotes)
-5. once saved to yout terminal, launch app on your perfered code editor
+5. once saved to your terminal, launch app on your preferred code editor
 
 
 ## Usage 
 
 * Navigate HTML and CSS in Visual Studio Code 
-* Make nessesary edits in Visual Studio Code
-* Push to desired repository/deplayment platform for potential clients to enjoy
+* Make necessary edits in Visual Studio Code
+* Push to desired repository/deployment platform for potential clients to enjoy
 
 ![HTML Sample](html.PNG)
 ![Css Sample](css.PNG)
