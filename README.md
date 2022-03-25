@@ -45,7 +45,8 @@ System requirements: latest version of Visual Studio Code, GitHub account, GitBa
 * Make nessesary edits in Visual Studio Code
 * Push to desired repository/deplayment platform for potential clients to enjoy
 
-
+![HTML Sample](./Develop/html.PNG)
+![Css Sample](./Develop/css.PNG)
 
 ## Credits
 
